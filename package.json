@@ -1,0 +1,19 @@
+{
+  "name": "airProxy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "airtunes": "^0.1.7",
+    "bunyan": "^1.3.3",
+    "mdns": "^2.2.5",
+    "nodetunes": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
