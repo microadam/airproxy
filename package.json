@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "airtunes": "^0.1.7",
+    "airtunes": "git://github.com/microadam/node_airtunes",
     "bunyan": "^1.3.3",
     "mdns": "^2.2.5",
     "nodetunes": "^0.1.2"
