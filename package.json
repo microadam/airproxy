@@ -8,7 +8,7 @@
     "bunyan": "^1.3.3",
     "eventemitter2": "^0.4.14",
     "mc-logger": "0.0.0",
-    "mdns": "^2.2.5",
+    "mdns-js": "git://github.com/microadam/node-mdns-js",
     "nodetunes": "^0.1.2"
   },
   "publishConfig": {
