@@ -9,7 +9,7 @@
     "eventemitter2": "^0.4.14",
     "mc-logger": "0.0.0",
     "mdns-js": "git://github.com/microadam/node-mdns-js",
-    "nodetunes": "^0.1.2"
+    "nodetunes": "git://github.com/microadam/nodetunes"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
